@@ -11,9 +11,3 @@ sub_list= my_list[1:3]
 print(sub_list)
 
 
-Write a program that asks the user how many days are in a particular month, and what day of the week the month begins on(
-
-Reverse a list in python
-
-
-Replace Every Alternate Word in a Paragraph
